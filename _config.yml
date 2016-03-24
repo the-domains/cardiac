@@ -1,0 +1,28 @@
+name: cardiac
+favicon: null
+layout_spectrum: 0.9343132562935352
+typography_spectrum: 0.6713124373927712
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9839963654521853
+  lightness: 0.5880301904398948
+  saturation: 0.41472329990938306
+  rhythmicContrast: 0.5386406993493438
+purpose: []
